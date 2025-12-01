@@ -1,0 +1,7 @@
+{
+  "name": "Xantium AI Chat",
+  "description": "An intelligent chat application powered by Gemini, featuring different AI personalities for deep analysis or quick support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
